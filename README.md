@@ -2,7 +2,8 @@
 
 # Objective : Reproduction of Research Paper and find an extention
 
-## Paper : " Investigating tail-risk dependence in the cryptocurrency markets: A LASSO quantile regression approach " by Linh Hoang Nguyena, Thanaset Chevapatrakulb, Kai Yao
+## Paper : " Investigating tail-risk dependence in the cryptocurrency markets: A LASSO quantile regression approach " by Linh Hoang Nguyena, Thanaset Chevapatrakulb, Kai Yao 
+Link : https://dora.dmu.ac.uk/bitstream/handle/2086/20006/Cryptos%20&%20LASSO%20QR%20[June%202020]_LN_TC.pdf?sequence=1
 ## -Studying the connectivity of extreme risk in the crypto-currency markets
 ## -Identify the main drivers and receivers of the network
 ## -Portfolio analysis: equiponded vs mean-CVaR
